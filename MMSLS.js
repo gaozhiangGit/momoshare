@@ -1,7 +1,11 @@
+
 /**
 利用随机概率实现多账户运行
 
+
 填写格式如下：
+
+
 
 
 const MMSLS = [
@@ -12,6 +16,7 @@ const MMSLS = [
   ]
 =====================以上为范例！=====================
 
+
 =====================请在下面编辑=====================
 =====================请在下面编辑=====================
 =====================请在下面编辑=====================
@@ -20,7 +25,9 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=32970544&pid=c3bf24877e6aee790cd4ef067274a7d0&tid=6cb13742fe2af1318837b964a7a5fa27",
+    "https://www.maimemo.com/share/page?uid=32970544&pid=6f5f4f9709a3c370719d0a9b72d6dcab&tid=babeea38405319345b85aae956f23f52",
+
+
 
 
   ]
@@ -37,3 +44,8 @@ const MMSLS = [
   module.exports = {
     MMSL_random
   }
+
+  module.exports = {
+    MMSL_random
+  }
+
